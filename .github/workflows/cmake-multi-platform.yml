@@ -18,7 +18,7 @@ jobs:
           kernel-url: https://github.com/nzlnice/cruxkernel.git
           kernel-dir: msm-4.14
           kernel-branch: main
-          config: crux_user_defconfig
+          config: crux_defconfig
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
